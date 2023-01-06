@@ -4,3 +4,6 @@ This is all resources about Human Activity Recognition (HAR) with sensor data
 
 # Paper
 
+# Github Link
+
+# Other Relevant Literatures (Books, Article, etc.)
